@@ -2,7 +2,7 @@
 
 # IMDB Film Yorumları ile Duygu Analizi
 
-Bu proje, IMDB film yorumları veri setini kullanarak metin sınıflandırma ve duygu analizi gerçekleştirir. Projenin amacı, bir film yorumunun "pozitif" mi yoksa "negatif" mi olduğunu makine öğrenmesi modelleriyle tahmin etmektir. Proje, veri temizleme, özellik çıkarma (feature extraction) ve model karşılaştırması gibi temel Doğal Dil İşleme (NLP) adımlarını içermektedir.
+Bu proje, IMDB film yorumları veri setini (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) kullanarak metin sınıflandırma ve duygu analizi gerçekleştirir. Projenin amacı, bir film yorumunun "pozitif" mi yoksa "negatif" mi olduğunu makine öğrenmesi modelleriyle tahmin etmektir. Proje, veri temizleme, özellik çıkarma (feature extraction) ve model karşılaştırması gibi temel Doğal Dil İşleme (NLP) adımlarını içermektedir.
 
 ## 🚀 Proje Akışı
 
