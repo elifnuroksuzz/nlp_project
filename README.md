@@ -1,11 +1,3 @@
-Harika bir proje! GitHub için hazırladığınız bu IMDB film yorumu duygu analizi projesi için kısa bir açıklama ve detaylı bir README dosyası aşağıda sunulmuştur.
-
-### **GitHub Depo Açıklaması (Description)**
-
-IMDB film yorumları veri setiyle duygu analizi. Metin temizleme, TF-IDF/BoW ve Scikit-learn ile Lojistik Regresyon gibi çeşitli makine öğrenmesi modelleri kullanılarak pozitif/negatif sınıflandırma.
-
----
-
 ### **README.md Dosyası**
 
 # IMDB Film Yorumları ile Duygu Analizi
